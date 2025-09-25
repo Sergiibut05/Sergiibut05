@@ -40,4 +40,3 @@ Trabajo con una variedad de lenguajes, frameworks y herramientas:
 - 💼 [GitHub](https://github.com/Sergiibut05)  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sergii-butrii-4b0729346/?locale=en_US)
 
-✨ *Motivado por los nuevos desafíos y la oportunidad de seguir creciendo como desarrollador.*
