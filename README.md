@@ -26,11 +26,11 @@ Trabajo con una variedad de lenguajes, frameworks y herramientas:
 
 ## 🌍 Idiomas
 - ![English](https://img.shields.io/badge/English-C1-brightgreen?style=for-the-badge) Nivel C1 certificado por Cambridge (CAE, puntuación 190)  
-
+- ![Ucraniano] Lengua Materna
 ---
 
 ## 📊 Estadísticas en GitHub
-![Estadísticas de Sergii](https://github-readme-stats.vercel.app/api?username=Sergiibut05&show_icons=true&theme=radical)  
+
 ![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergiibut05&layout=compact&theme=radical)
 
 ---
