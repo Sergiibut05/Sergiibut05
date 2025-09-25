@@ -26,7 +26,7 @@ Trabajo con una variedad de lenguajes, frameworks y herramientas:
 
 ## 🌍 Idiomas
 - ![English](https://img.shields.io/badge/English-C1-brightgreen?style=for-the-badge) Nivel C1 certificado por Cambridge (CAE, puntuación 190)  
-- ![Ucraniano](https://img.shields.io/badge/Ucraniano-Nativo-blue?style=for-the-badge) Lengua materna
+- ![Ucraniano](https://img.shields.io/badge/Ucraniano-Nativo-blue?style=for-the-badge) Lengua materna(nivel nativo en un contexto familiar)
 ---
 
 ## 📊 Estadísticas en GitHub
