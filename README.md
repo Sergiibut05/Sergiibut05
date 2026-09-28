@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Sergii
 
 ## 🚀 Sobre mí
-Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el **Parque Tecnológico de Málaga** y actualmente realizo formación dual en **Aliquindoi**. Me apasiona el desarrollo **web y móvil**, y me gusta aprender continuamente nuevas tecnologías para aportar valor desde el primer día.  
+Soy **Desarrollador de Aplicaciones Multiplataforma (DAM)** en el **Parque Tecnológico de Málaga** y actualmente realizo formación dual en **Aliquindoi**. Me apasiona el desarrollo **web y móvil**, y me gusta aprender continuamente nuevas tecnologías para aportar valor desde el primer día.  
 
 Me considero una persona **curiosa, trabajadora y en constante aprendizaje**, motivado por los desafíos, el trabajo en equipo y la mejora continua de mis habilidades como desarrollador.
 
@@ -27,6 +27,7 @@ Trabajo con una variedad de lenguajes, frameworks y herramientas:
 ## 🌍 Idiomas
 - ![English](https://img.shields.io/badge/English-C1-brightgreen?style=for-the-badge) Nivel C1 certificado por Cambridge (CAE, puntuación 190)  
 - ![Ucraniano](https://img.shields.io/badge/Ucraniano-Nativo-blue?style=for-the-badge) Lengua materna
+- ![Español](https://img.shields.io/badge/Ucraniano-Nativo-blue?style=for-the-badge) Nivel Nativo
 ---
 
 ## 📊 Estadísticas en GitHub
