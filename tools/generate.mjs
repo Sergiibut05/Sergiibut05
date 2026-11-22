@@ -413,9 +413,8 @@ function hero(t) {
 
   let cxChip = X;
   for (const [label, opts] of [
-    ['Software engineering', {}],
-    ['Data analytics', {}],
-    ['AI / ML', {}],
+    ['Software development', {}],
+    ['AI & Big Data specialization', {}],
   ]) {
     const c = chip(t, cxChip, 248, label, opts);
     if (cxChip + c.width > vp.x1 - 16) break;
@@ -427,7 +426,7 @@ function hero(t) {
   b += `<rect x=".5" y=".5" width="${W - 1}" height="${H - 1}" rx="19.5" stroke="${t.border}"/>`;
 
   return svgDoc(W, H, b, {
-    title: 'Sergii Butrii — Software Developer in Málaga, Spain',
+    title: 'Sergii Butrii, software development and AI and Big Data, Málaga, Spain',
     defs,
     style,
   });

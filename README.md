@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/hero-light.svg">
-    <img alt="Sergii Butrii — Software, data &amp; AI. Málaga, Spain. Thoughtful interfaces, efficient systems." src="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/hero-dark.svg" width="100%">
+    <img alt="Sergii Butrii. Software development and AI &amp; Big Data specialization. Málaga, Spain. Thoughtful interfaces, efficient systems." src="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/hero-dark.svg" width="100%">
   </picture>
 </a>
 
@@ -16,13 +16,13 @@
 
 ### About
 
-I'm a software developer based in Málaga who cares about the details people *feel* — smooth interactions, fast load times, interfaces that simply make sense — and about the systems underneath that keep them efficient.
+I'm a software developer based in Málaga who cares about the details people *feel*: smooth interactions, fast load times and interfaces that simply make sense. I also care about the systems underneath that keep them efficient.
 
 I graduated in **Multiplatform Application Development (DAM)**, including dual training at **Aliqindoi**, and I'm now specializing in **Artificial Intelligence & Big Data**.
 
 My interactive 3D portfolio received an **[Awwwards Honorable Mention](https://sergii-butrii.com)**. I built it with **Three.js** and **WebGPU**, chasing the right balance between interactive physics and a smooth frame rate in the browser.
 
-I speak Spanish and Ukrainian natively and English at **C1 — Cambridge CAE (190)**, so I'm comfortable working in international teams.
+I speak Spanish and Ukrainian natively and English at **C1 (Cambridge CAE, 190)**, so I'm comfortable working in international teams.
 
 <br>
 
@@ -42,7 +42,7 @@ I speak Spanish and Ukrainian natively and English at **C1 — Cambridge CAE (19
     </td>
     <td width="33%" valign="top">
       <img src="assets/focus-data.svg" width="40" height="40" alt=""><br>
-      <b>Data &amp; AI</b> <sub>— current focus</sub>
+      <b>Data &amp; AI</b> <sub>(current focus)</sub>
       <p>Python, pandas and PySpark for analysis, Apache Kafka for real-time streams, and LLMs wired into real workflows with n8n and MCP.</p>
     </td>
   </tr>
@@ -55,7 +55,7 @@ I speak Spanish and Ukrainian natively and English at **C1 — Cambridge CAE (19
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/stack-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/stack-light.svg">
-  <img alt="Tech stack — 3D & Graphics: Three.js, WebGPU, WebGL, TSL/GLSL shaders, Rapier physics. Frontend: TypeScript, JavaScript, Angular, React, Next.js, Tailwind CSS, HTML, CSS. Mobile: Kotlin, Jetpack Compose, Android, Java, Ionic. Data & AI: Python, NumPy, pandas, Jupyter, PySpark, Apache Kafka, Streamlit, n8n. Backend & DB: Node.js, FastAPI, PostgreSQL, MySQL, Firebase, Docker. Workflow: Git, GitHub, Vite, Vercel." src="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/stack-dark.svg" width="100%">
+  <img alt="Tech stack. 3D & Graphics: Three.js, WebGPU, WebGL, TSL/GLSL shaders, Rapier physics. Frontend: TypeScript, JavaScript, Angular, React, Next.js, Tailwind CSS, HTML, CSS. Mobile: Kotlin, Jetpack Compose, Android, Java, Ionic. Data & AI: Python, NumPy, pandas, Jupyter, PySpark, Apache Kafka, Streamlit, n8n. Backend & DB: Node.js, FastAPI, PostgreSQL, MySQL, Firebase, Docker. Workflow: Git, GitHub, Vite, Vercel." src="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/stack-dark.svg" width="100%">
 </picture>
 
 <br>
@@ -68,10 +68,10 @@ I speak Spanish and Ukrainian natively and English at **C1 — Cambridge CAE (19
   <img alt="My GitHub contributions rendered as a 3D city, regenerated daily." src="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/profile-3d-contrib/contrib-dark.svg" width="100%">
 </picture>
 
-<p align="center"><sub>My contribution graph, in 3D — naturally. Rebuilt every night by a GitHub Action.</sub></p>
+<p align="center"><sub>My contribution graph, in 3D, naturally. Rebuilt every night by a GitHub Action.</sub></p>
 
 <br>
 
 <img src="assets/footer.svg" width="100%" alt="">
 
-<p align="center"><sub>Every graphic on this page is generated from code — see <a href="https://github.com/Sergiibut05/Sergiibut05/tree/main/tools"><code>tools/</code></a>.</sub></p>
+<p align="center"><sub>Every graphic on this page is generated from code. See <a href="https://github.com/Sergiibut05/Sergiibut05/tree/main/tools"><code>tools/</code></a>.</sub></p>
