@@ -1,43 +1,77 @@
-# 👋 ¡Hola! Soy Sergii
+<a href="https://sergii-butrii.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/hero-light.svg">
+    <img alt="Sergii Butrii — Software Developer in Málaga, Spain. Thoughtful interfaces, efficient systems. Awwwards Honorable Mention · Three.js · WebGPU · AI &amp; Big Data." src="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/hero-dark.svg" width="100%">
+  </picture>
+</a>
 
-## 🚀 Sobre mí
-Soy **Desarrollador de Aplicaciones Multiplataforma (DAM)** en el **Parque Tecnológico de Málaga** y actualmente realizo formación dual en **Aliquindoi**. Me apasiona el desarrollo **web y móvil**, y me gusta aprender continuamente nuevas tecnologías para aportar valor desde el primer día.  
+<p align="center">
+  <a href="https://sergii-butrii.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/btn-portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/btn-portfolio-light.svg"><img alt="Portfolio: sergii-butrii.com" src="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/btn-portfolio-dark.svg" height="44"></picture></a>&nbsp;
+  <a href="https://www.linkedin.com/in/sergii-butrii-4b0729346/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/btn-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/btn-linkedin-light.svg"><img alt="LinkedIn" src="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/btn-linkedin-dark.svg" height="44"></picture></a>&nbsp;
+  <a href="mailto:sergiibutrii5@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/btn-email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/btn-email-light.svg"><img alt="Email: sergiibutrii5@gmail.com" src="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/btn-email-dark.svg" height="44"></picture></a>
+</p>
 
-Me considero una persona **curiosa, trabajadora y en constante aprendizaje**, motivado por los desafíos, el trabajo en equipo y la mejora continua de mis habilidades como desarrollador.
+<br>
 
----
+### About
 
-## 🛠 Tecnologías y herramientas
-Trabajo con una variedad de lenguajes, frameworks y herramientas:
+I'm a software developer based in Málaga who cares about the details people *feel* — smooth interactions, fast load times, interfaces that simply make sense — and about the systems underneath that keep them efficient.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+I graduated in **Multiplatform Application Development (DAM)**, including dual training at **Aliqindoi**, and I'm now specializing in **Artificial Intelligence & Big Data**.
 
----
+My interactive 3D portfolio received an **[Awwwards Honorable Mention](https://sergii-butrii.com)**. I built it with **Three.js** and **WebGPU**, chasing the right balance between interactive physics and a smooth frame rate in the browser.
 
-## 🌍 Idiomas
-- ![English](https://img.shields.io/badge/English-C1-brightgreen?style=for-the-badge) Nivel C1 certificado por Cambridge (CAE, puntuación 190)  
-- ![Ucraniano](https://img.shields.io/badge/Ucraniano-Nativo-blue?style=for-the-badge) Lengua materna
-- ![Español](https://img.shields.io/badge/Español-Nativo-blue?style=for-the-badge) Nivel Nativo
----
+I speak Spanish and Ukrainian natively and English at **C1 — Cambridge CAE (190)**, so I'm comfortable working in international teams.
 
-## 📊 Estadísticas en GitHub
+<br>
 
-![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergiibut05&layout=compact&theme=radical)
+### What I do
 
----
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="assets/focus-3d.svg" width="40" height="40" alt=""><br>
+      <b>Real-time 3D for the web</b>
+      <p>Three.js, WebGPU, TSL&nbsp;/&nbsp;GLSL shaders and Rapier physics. Rich, interactive scenes that still run smoothly on modest hardware.</p>
+    </td>
+    <td width="33%" valign="top">
+      <img src="assets/focus-ui.svg" width="40" height="40" alt=""><br>
+      <b>Frontend &amp; mobile</b>
+      <p>Angular and TypeScript on the web, Kotlin with Jetpack Compose on Android. Clean interfaces, careful UX, maintainable code.</p>
+    </td>
+    <td width="33%" valign="top">
+      <img src="assets/focus-data.svg" width="40" height="40" alt=""><br>
+      <b>Data &amp; AI</b> <sub>— current focus</sub>
+      <p>Python, pandas and PySpark for analysis, Apache Kafka for real-time streams, and LLMs wired into real workflows with n8n and MCP.</p>
+    </td>
+  </tr>
+</table>
 
-## 📬 Contacto
-- 📧 Email: [sergiibutrii5@gmail.com](mailto:sergiibutrii5@gmail.com)  
-- 💼 [GitHub](https://github.com/Sergiibut05)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/sergii-butrii-4b0729346/?locale=en_US)
+<br>
 
+### Toolbox
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/stack-light.svg">
+  <img alt="Tech stack — 3D & Graphics: Three.js, WebGPU, WebGL, TSL/GLSL shaders, Rapier physics. Frontend: TypeScript, JavaScript, Angular, React, Next.js, Tailwind CSS, HTML, CSS. Mobile: Kotlin, Jetpack Compose, Android, Java, Ionic. Data & AI: Python, NumPy, pandas, Jupyter, PySpark, Apache Kafka, Streamlit, n8n. Backend & DB: Node.js, FastAPI, PostgreSQL, MySQL, Firebase, Docker. Workflow: Git, GitHub, Vite, Vercel." src="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/assets/stack-dark.svg" width="100%">
+</picture>
+
+<br>
+
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/profile-3d-contrib/contrib-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/profile-3d-contrib/contrib-light.svg">
+  <img alt="My GitHub contributions rendered as a 3D city, regenerated daily." src="https://raw.githubusercontent.com/Sergiibut05/Sergiibut05/main/profile-3d-contrib/contrib-dark.svg" width="100%">
+</picture>
+
+<p align="center"><sub>My contribution graph, in 3D — naturally. Rebuilt every night by a GitHub Action.</sub></p>
+
+<br>
+
+<img src="assets/footer.svg" width="100%" alt="">
+
+<p align="center"><sub>Every graphic on this page is generated from code — see <a href="https://github.com/Sergiibut05/Sergiibut05/tree/main/tools"><code>tools/</code></a>.</sub></p>
