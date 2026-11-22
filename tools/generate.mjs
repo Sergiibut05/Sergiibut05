@@ -387,7 +387,7 @@ function hero(t) {
 
   b += icosahedron(t, { cx, cy, scale: 92 });
 
-  // viewport crop marks + HUD
+  // viewport crop marks
   const m = 12;
   const corner = (x, y, dx, dy) => `M${x} ${y + dy * m}V${y}H${x + dx * m}`;
   b += `<path d="${[
@@ -396,26 +396,11 @@ function hero(t) {
     corner(vp.x1, vp.y2, 1, -1),
     corner(vp.x2, vp.y2, -1, -1),
   ].join('')}" stroke="${t.faint}" stroke-width="1.2"/>`;
-  b += text(FONTS.mono, 'new IcosahedronGeometry(1, 0)', { x: vp.x1 + 18, y: vp.y1 + 20, size: 10.5, fill: t.faint }).svg;
-  b += text(FONTS.mono, 'WebGPURenderer', { x: vp.x1 + 18, y: vp.y2 - 13, size: 10.5, fill: t.faint }).svg;
-
-  // stats.js-style fps meter
-  const rnd = mulberry32(7);
-  const bars = 9;
-  const bx = vp.x2 - 18 - bars * 5;
-  const by = vp.y2 - 12;
-  for (let i = 0; i < bars; i++) {
-    const vals = Array.from({ length: 6 }, () => r1(4 + rnd() * 9));
-    vals.push(vals[0]);
-    const ys = vals.map((v) => r1(by - v));
-    b += `<rect x="${bx + i * 5}" y="${ys[0]}" width="3" height="${vals[0]}" rx="1" fill="${t.accent}" fill-opacity="${r2(0.35 + 0.65 * (i / bars))}"><animate attributeName="height" dur="${r1(2.2 + rnd() * 1.5)}s" repeatCount="indefinite" values="${vals.join(';')}"/><animate attributeName="y" dur="${r1(2.2 + rnd() * 1.5)}s" repeatCount="indefinite" values="${ys.join(';')}"/></rect>`;
-  }
-  b += text(FONTS.mono, '60 FPS', { x: bx - 10, y: vp.y2 - 13, size: 10.5, fill: t.faint, anchor: 'end' }).svg;
 
   // ---- left column: identity
   const X = 52;
   b += `<rect x="${X}" y="68" width="8" height="8" rx="1.5" fill="${t.accent}"/>`;
-  b += text(FONTS.monoMedium, 'SOFTWARE DEVELOPER  ·  MÁLAGA, ES', { x: X + 20, y: 77, size: 12, tracking: 0.08, fill: t.muted }).svg;
+  b += text(FONTS.monoMedium, 'BASED IN MÁLAGA, SPAIN', { x: X + 20, y: 77, size: 12, tracking: 0.08, fill: t.muted }).svg;
 
   b += text(FONTS.display, 'Sergii Butrii', { x: X - 3, y: 150, size: 62, tracking: -0.025, fill: t.text }).svg;
 
@@ -428,9 +413,9 @@ function hero(t) {
 
   let cxChip = X;
   for (const [label, opts] of [
-    ['Awwwards Honorable Mention', { accent: true }],
-    ['Three.js · WebGPU', {}],
-    ['AI & Big Data', {}],
+    ['Software engineering', {}],
+    ['Data analytics', {}],
+    ['AI / ML', {}],
   ]) {
     const c = chip(t, cxChip, 248, label, opts);
     if (cxChip + c.width > vp.x1 - 16) break;
